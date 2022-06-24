@@ -56,8 +56,9 @@ public class LpTurnusMinT {
         int cNumber = 0;
 
         for (int i = 0; i < spoje2.size(); i++) {
-            if (spoje2.get(i).getPossibleConnectionsFromThis().isEmpty())
+            if (spoje2.get(i).getPossibleConnectionsFromThis().isEmpty()) {
                 continue;
+            }
 
             writer.write(" c" + cNumber++ + ":\n");
             String s = "  ";
@@ -84,8 +85,9 @@ public class LpTurnusMinT {
         }
 
         for (int i = 0; i < spoje2.size(); i++) {
-            if (spoje2.get(i).getPossibleConnectionsToThis().isEmpty())
+            if (spoje2.get(i).getPossibleConnectionsToThis().isEmpty()) {
                 continue;
+            }
 
             writer.write(" c" + cNumber++ + ":\n");
             String s = "  ";
@@ -189,8 +191,10 @@ public class LpTurnusMinT {
                 if (!s.equals(" ")) {
                     s += "+";
                 }
-                s += distances.get(spoje2.get(i).getToId()).get(spoje2.get(j).getFromId()) == 0 ? 1 :
-                        distances.get(spoje2.get(i).getToId()).get(spoje2.get(j).getFromId());
+                Integer distance = distances.get(spoje2.get(i).getToId()).get(spoje2.get(j).getFromId());
+                s += distance == 0
+                        ? 1
+                        : distance;
                 s += "x" + spoje2.get(i).getId() + "_" + spoje2.get(i).getPossibleConnectionsFromThis().get(j).getId();
 //                s += "*" + distances.get(spoje2.get(i).getToId()).get(spoje2.get(j).getFromId());
 

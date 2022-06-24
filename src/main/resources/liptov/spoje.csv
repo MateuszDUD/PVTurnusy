@@ -13,8 +13,8 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 505401;24;20;Bobrovček,,OcÚ;17:00:00;401;Lipt.Mikuláš,,AS;17:20:00;13
 505401;30;20;Bobrovček,,OcÚ;20:00:00;401;Lipt.Mikuláš,,AS;20:17:00;10
 505401;40;20;Bobrovček,,OcÚ;5:30:00;401;Lipt.Mikuláš,,AS;5:52:00;13
-    505401;42;20;Bobrovček,,OcÚ;7:15:00;401;Lipt.Mikuláš,,AS;7:43:00;15
-    505402;5;401;Lipt.Mikuláš,,AS;6:02:00;71;Jalovec,,ZŠ;6:16:00;9
+505401;42;20;Bobrovček,,OcÚ;7:15:00;401;Lipt.Mikuláš,,AS;7:43:00;15
+505402;5;401;Lipt.Mikuláš,,AS;6:02:00;71;Jalovec,,ZŠ;6:16:00;9
 505402;9;401;Lipt.Mikuláš,,AS;6:55:00;71;Jalovec,,ZŠ;7:10:00;9
 505402;11;401;Lipt.Mikuláš,,AS;8:25:00;71;Jalovec,,ZŠ;8:39:00;9
 505402;13;401;Lipt.Mikuláš,,AS;10:30:00;71;Jalovec,,ZŠ;10:51:00;11
@@ -93,12 +93,12 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 505410;31;401;Lipt.Mikuláš,,AS;17:25:00;156;Konská,,ZŠ;18:00:00;16
 505410;35;401;Lipt.Mikuláš,,AS;22:10:00;156;Konská,,ZŠ;22:40:00;16
 505410;37;401;Lipt.Mikuláš,,AS;19:20:00;156;Konská,,ZŠ;19:52:00;16
-505410;43;401;Lipt.Mikuláš,,AS;12:15:00;13;Beňadiková,,kult.dom;12:33:00;8
+505410;43;401;Lipt.Mikuláš,,AS;12:15:00;13;Be�?adiková,,kult.dom;12:33:00;8
 505410;47;401;Lipt.Mikuláš,,AS;15:40:00;156;Konská,,ZŠ;16:18:00;16
 505410;19;399;Lipt.Mikuláš,,ul.Hurbanova MŠ;13:20:00;156;Konská,,ZŠ;13:55:00;15
-505410;53;14;Beňadiková,,rázc.;6:45:00;69;Jakubovany,,Hrča;6:54:00;5
+505410;53;14;Be�?adiková,,rázc.;6:45:00;69;Jakubovany,,Hrča;6:54:00;5
 505410;4;156;Konská,,ZŠ;4:45:00;401;Lipt.Mikuláš,,AS;5:15:00;16
-505410;6;13;Beňadiková,,kult.dom;4:50:00;401;Lipt.Mikuláš,,AS;5:05:00;8
+505410;6;13;Be�?adiková,,kult.dom;4:50:00;401;Lipt.Mikuláš,,AS;5:05:00;8
 505410;12;156;Konská,,ZŠ;5:45:00;401;Lipt.Mikuláš,,AS;6:18:00;16
 505410;16;156;Konská,,ZŠ;7:00:00;401;Lipt.Mikuláš,,AS;7:29:00;14
 505410;18;69;Jakubovany,,Hrča;7:05:00;401;Lipt.Mikuláš,,AS;7:33:00;12
@@ -110,7 +110,7 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 505410;38;156;Konská,,ZŠ;16:20:00;401;Lipt.Mikuláš,,AS;16:53:00;16
 505410;40;156;Konská,,ZŠ;18:20:00;401;Lipt.Mikuláš,,AS;18:51:00;16
 505410;42;156;Konská,,ZŠ;20:50:00;401;Lipt.Mikuláš,,AS;21:20:00;16
-505410;46;13;Beňadiková,,kult.dom;13:00:00;437;Lipt.Mikuláš,,ul.Štúrova MsÚ;13:12:00;7
+505410;46;13;Be�?adiková,,kult.dom;13:00:00;437;Lipt.Mikuláš,,ul.Štúrova MsÚ;13:12:00;7
 505411;1;401;Lipt.Mikuláš,,AS;5:30:00;221;Veterná Poruba,,OcÚ;5:48:00;10
 505411;3;401;Lipt.Mikuláš,,AS;6:25:00;221;Veterná Poruba,,OcÚ;6:47:00;10
 505411;7;401;Lipt.Mikuláš,,AS;12:15:00;221;Veterná Poruba,,OcÚ;12:41:00;10
@@ -199,7 +199,7 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 505414;40;123;Lipt.Hrádok,,žel.st.;17:25:00;401;Lipt.Mikuláš,,AS;17:47:00;12
 505414;56;123;Lipt.Hrádok,,žel.st.;20:49:00;401;Lipt.Mikuláš,,AS;21:09:00;12
 505414;60;123;Lipt.Hrádok,,žel.st.;18:43:00;401;Lipt.Mikuláš,,AS;19:00:00;12
-505414;62;123;Lipt.Hrádok,,žel.st.;6:40:00;14;Beňadiková,,rázc.;6:45:00;5
+505414;62;123;Lipt.Hrádok,,žel.st.;6:40:00;14;Be�?adiková,,rázc.;6:45:00;5
 505415;1;401;Lipt.Mikuláš,,AS;5:30:00;127;Lipt.Ján,,zot.Ďumbier;5:50:00;12
 505415;5;401;Lipt.Mikuláš,,AS;6:20:00;449;Lipt.Ján,,Alexandra Wellness Hotel;6:47:00;13
 505415;13;401;Lipt.Mikuláš,,AS;10:35:00;127;Lipt.Ján,,zot.Ďumbier;11:03:00;12
@@ -394,14 +394,14 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 505433;27;401;Lipt.Mikuláš,,AS;14:05:00;73;Jamník,,RD otoč.;14:50:00;19
 505433;31;123;Lipt.Hrádok,,žel.st.;6:55:00;115;Lipt.Porúbka,,Chomová;6:59:00;3
 505433;35;123;Lipt.Hrádok,,žel.st.;18:10:00;402;Jamník,,Jednota;18:20:00;6
-505433;37;119;Lipt.Hrádok,,Sokolovňa;7:14:00;111;Lipt.Peter,,pomník;7:17:00;2
+505433;37;119;Lipt.Hrádok,,Sokolov�?a;7:14:00;111;Lipt.Peter,,pomník;7:17:00;2
 505433;1;123;Lipt.Hrádok,,žel.st.;11:20:00;115;Lipt.Porúbka,,Chomová;11:27:00;3
 505433;15;123;Lipt.Hrádok,,žel.st.;15:30:00;115;Lipt.Porúbka,,Chomová;15:37:00;3
 505433;17;123;Lipt.Hrádok,,žel.st.;18:10:00;115;Lipt.Porúbka,,Chomová;18:17:00;3
 505433;6;73;Jamník,,RD otoč.;5:35:00;123;Lipt.Hrádok,,žel.st.;5:50:00;7
 505433;10;73;Jamník,,RD otoč.;7:07:00;401;Lipt.Mikuláš,,AS;7:50:00;19
 505433;16;73;Jamník,,RD otoč.;16:25:00;123;Lipt.Hrádok,,žel.st.;16:38:00;7
-505433;22;115;Lipt.Porúbka,,Chomová;7:02:00;119;Lipt.Hrádok,,Sokolovňa;7:14:00;3
+505433;22;115;Lipt.Porúbka,,Chomová;7:02:00;119;Lipt.Hrádok,,Sokolov�?a;7:14:00;3
 505433;24;73;Jamník,,RD otoč.;13:05:00;401;Lipt.Mikuláš,,AS;13:43:00;19
 505433;26;115;Lipt.Porúbka,,Chomová;14:10:00;123;Lipt.Hrádok,,žel.st.;14:18:00;3
 505433;28;73;Jamník,,RD otoč.;15:00:00;401;Lipt.Mikuláš,,AS;15:40:00;19
@@ -418,7 +418,7 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 505434;7;123;Lipt.Hrádok,,žel.st.;6:15:00;85;Lipt.Kokava,,RD;6:32:00;11
 505434;15;123;Lipt.Hrádok,,žel.st.;6:55:00;85;Lipt.Kokava,,RD;7:12:00;11
 505434;17;123;Lipt.Hrádok,,žel.st.;7:05:00;107;Lipt.Hrádok,Dovalovo,pomník;7:12:00;4
-505434;75;401;Lipt.Mikuláš,,AS;7:05:00;119;Lipt.Hrádok,,Sokolovňa;7:32:00;13
+505434;75;401;Lipt.Mikuláš,,AS;7:05:00;119;Lipt.Hrádok,,Sokolov�?a;7:32:00;13
 505434;5;123;Lipt.Hrádok,,žel.st.;7:50:00;87;Lipt.Kokava,,pož.zbroj.;8:09:00;11
 505434;25;401;Lipt.Mikuláš,,AS;9:40:00;87;Lipt.Kokava,,pož.zbroj.;10:29:00;23
 505434;23;401;Lipt.Mikuláš,,AS;11:40:00;87;Lipt.Kokava,,pož.zbroj.;12:32:00;23
@@ -440,7 +440,7 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 505434;4;87;Lipt.Kokava,,pož.zbroj.;5:50:00;123;Lipt.Hrádok,,žel.st.;6:08:00;11
 505434;18;85;Lipt.Kokava,,RD;6:35:00;123;Lipt.Hrádok,,žel.st.;7:00:00;11
 505434;20;107;Lipt.Hrádok,Dovalovo,pomník;7:20:00;123;Lipt.Hrádok,,žel.st.;7:35:00;4
-505434;74;119;Lipt.Hrádok,,Sokolovňa;7:32:00;123;Lipt.Hrádok,,žel.st.;7:38:00;2
+505434;74;119;Lipt.Hrádok,,Sokolov�?a;7:32:00;123;Lipt.Hrádok,,žel.st.;7:38:00;2
 505434;24;85;Lipt.Kokava,,RD;7:15:00;401;Lipt.Mikuláš,,AS;8:10:00;23
 505434;28;87;Lipt.Kokava,,pož.zbroj.;8:45:00;401;Lipt.Mikuláš,,AS;9:32:00;23
 505434;32;87;Lipt.Kokava,,pož.zbroj.;10:35:00;123;Lipt.Hrádok,,žel.st.;10:58:00;11
@@ -555,7 +555,7 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 505443;4;431;Lipt.Hrádok,,Alcatel;22:03:00;123;Lipt.Hrádok,,žel.st.;22:08:00;2
 508401;3;337;Ružomberok,,AS;5:45:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;6:30:00;26
 508401;7;337;Ružomberok,,AS;6:20:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;7:00:00;26
-508401;13;469;Lipt.Osada,,pekáreň;7:00:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;7:27:00;10
+508401;13;469;Lipt.Osada,,pekáre�?;7:00:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;7:27:00;10
 508401;15;337;Ružomberok,,AS;9:45:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;10:30:00;26
 508401;17;333;Lipt.Osada,,zdrav.str.;12:07:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;12:30:00;11
 508401;19;337;Ružomberok,,AS;12:15:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;13:00:00;26
@@ -567,7 +567,7 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 508401;35;337;Ružomberok,,AS;17:05:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;17:50:00;26
 508401;45;337;Ružomberok,,AS;20:35:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;21:15:00;26
 508401;47;337;Ružomberok,,AS;22:20:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;23:00:00;26
-508401;63;469;Lipt.Osada,,pekáreň;15:15:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;15:35:00;10
+508401;63;469;Lipt.Osada,,pekáre�?;15:15:00;425;Lipt.Revúce,Vyšná Revúca,Jednota;15:35:00;10
 508401;4;425;Lipt.Revúce,Vyšná Revúca,Jednota;4:50:00;337;Ružomberok,,AS;5:35:00;26
 508401;10;425;Lipt.Revúce,Vyšná Revúca,Jednota;5:20:00;337;Ružomberok,,AS;6:05:00;26
 508401;12;425;Lipt.Revúce,Vyšná Revúca,Jednota;5:40:00;337;Ružomberok,,AS;6:20:00;26
@@ -581,7 +581,7 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 508401;32;425;Lipt.Revúce,Vyšná Revúca,Jednota;15:10:00;337;Ružomberok,,AS;15:55:00;26
 508401;42;425;Lipt.Revúce,Vyšná Revúca,Jednota;16:50:00;337;Ružomberok,,AS;17:35:00;26
 508401;44;425;Lipt.Revúce,Vyšná Revúca,Jednota;20:40:00;337;Ružomberok,,AS;21:25:00;26
-508401;64;425;Lipt.Revúce,Vyšná Revúca,Jednota;14:35:00;469;Lipt.Osada,,pekáreň;14:55:00;10
+508401;64;425;Lipt.Revúce,Vyšná Revúca,Jednota;14:35:00;469;Lipt.Osada,,pekáre�?;14:55:00;10
 508402;5;337;Ružomberok,,AS;5:40:00;288;Lipt.Lúžna,,Hronec;6:20:00;24
 508402;7;337;Ružomberok,,AS;6:15:00;288;Lipt.Lúžna,,Hronec;6:59:00;24
 508402;13;337;Ružomberok,,AS;10:05:00;288;Lipt.Lúžna,,Hronec;10:50:00;24
@@ -624,7 +624,7 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 508404;13;337;Ružomberok,,AS;11:50:00;95;Potok,,u Žiaka 44;12:33:00;19
 508404;17;91;Lipt.Teplá,,nám.;15:15:00;95;Potok,,u Žiaka 44;15:31:00;7
 508404;23;91;Lipt.Teplá,,nám.;16:05:00;95;Potok,,u Žiaka 44;16:21:00;7
-508404;29;337;Ružomberok,,AS;7:31:00;16;Bešeňová,,Jednota;7:51:00;12
+508404;29;337;Ružomberok,,AS;7:31:00;16;Beše�?ová,,Jednota;7:51:00;12
 508404;8;95;Potok,,u Žiaka 44;9:00:00;337;Ružomberok,,AS;9:38:00;17
 508404;10;95;Potok,,u Žiaka 44;13:38:00;337;Ružomberok,,AS;14:12:00;17
 508404;12;95;Potok,,u Žiaka 44;6:00:00;337;Ružomberok,,AS;6:37:00;17
@@ -632,8 +632,8 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 508404;16;93;Lipt.Teplá,,žel.st.;7:07:00;337;Ružomberok,,AS;7:38:00;13
 508404;20;95;Potok,,u Žiaka 44;12:40:00;93;Lipt.Teplá,,žel.st.;12:48:00;4
 508404;24;95;Potok,,u Žiaka 44;16:30:00;337;Ružomberok,,AS;17:00:00;15
-508404;28;16;Bešeňová,,Jednota;7:53:00;337;Ružomberok,,AS;8:18:00;12
-508405;5;337;Ružomberok,,AS;5:55:00;323;Ľubochňa;6:15:00;14
+508404;28;16;Beše�?ová,,Jednota;7:53:00;337;Ružomberok,,AS;8:18:00;12
+508405;5;337;Ružomberok,,AS;5:55:00;323;Ľuboch�?a;6:15:00;14
 508405;7;337;Ružomberok,,AS;6:20:00;375;Kraľovany,,žel.st.;6:50:00;20
 508405;13;337;Ružomberok,,AS;8:50:00;261;Martin,,aut.st.;10:05:00;45
 508405;15;337;Ružomberok,,AS;11:00:00;375;Kraľovany,,žel.st.;11:30:00;20
@@ -641,19 +641,19 @@ Linka;Spoj;MOD;MOD;Názov;ČOD;MPR;MPR;Názov;ČPR;KM
 508405;19;337;Ružomberok,,AS;13:50:00;375;Kraľovany,,žel.st.;14:22:00;20
 508405;23;337;Ružomberok,,AS;14:25:00;375;Kraľovany,,žel.st.;14:57:00;20
 508405;25;337;Ružomberok,,AS;16:05:00;375;Kraľovany,,žel.st.;16:35:00;20
-508405;29;337;Ružomberok,,AS;6:45:00;323;Ľubochňa;7:08:00;14
-508405;9;337;Ružomberok,,AS;7:52:00;323;Ľubochňa;8:12:00;14
-508405;1;323;Ľubochňa;4:25:00;375;Kraľovany,,žel.st.;4:35:00;6
-508405;8;323;Ľubochňa;6:20:00;337;Ružomberok,,AS;6:40:00;14
+508405;29;337;Ružomberok,,AS;6:45:00;323;Ľuboch�?a;7:08:00;14
+508405;9;337;Ružomberok,,AS;7:52:00;323;Ľuboch�?a;8:12:00;14
+508405;1;323;Ľuboch�?a;4:25:00;375;Kraľovany,,žel.st.;4:35:00;6
+508405;8;323;Ľuboch�?a;6:20:00;337;Ružomberok,,AS;6:40:00;14
 508405;12;375;Kraľovany,,žel.st.;7:00:00;337;Ružomberok,,AS;7:33:00;20
 508405;16;261;Martin,,aut.st.;11:45:00;337;Ružomberok,,AS;12:58:00;46
 508405;18;375;Kraľovany,,žel.st.;12:55:00;337;Ružomberok,,AS;13:29:00;20
 508405;20;375;Kraľovany,,žel.st.;13:35:00;337;Ružomberok,,AS;14:05:00;20
 508405;26;375;Kraľovany,,žel.st.;15:04:00;337;Ružomberok,,AS;15:34:00;20
-508405;30;323;Ľubochňa;7:10:00;337;Ružomberok,,AS;7:32:00;14
+508405;30;323;Ľuboch�?a;7:10:00;337;Ružomberok,,AS;7:32:00;14
 508405;4;375;Kraľovany,,žel.st.;5:00:00;337;Ružomberok,,AS;5:29:00;20
 508405;32;375;Kraľovany,,žel.st.;16:40:00;337;Ružomberok,,AS;17:10:00;20
-508405;10;323;Ľubochňa;8:15:00;337;Ružomberok,,AS;8:37:00;14
+508405;10;323;Ľuboch�?a;8:15:00;337;Ružomberok,,AS;8:37:00;14
 508405;14;375;Kraľovany,,žel.st.;6:55:00;337;Ružomberok,,AS;7:33:00;20
 508406;7;417;Ružomberok,,Supra-stred;5:24:00;315;Komjatná,,otoč.;5:57:00;16
 508406;9;337;Ružomberok,,AS;14:40:00;315;Komjatná,,otoč.;15:11:00;15
