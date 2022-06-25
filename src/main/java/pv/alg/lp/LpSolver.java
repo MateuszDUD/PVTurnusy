@@ -4,6 +4,9 @@ import lombok.extern.slf4j.Slf4j;
 import lpsolve.LpSolve;
 import lpsolve.LpSolveException;
 
+/**
+ * Trieda precita model vo formate cplex zo suboru a vyriesi ho pomocou balicka LpSolve.
+ */
 @Slf4j
 public class LpSolver {
 

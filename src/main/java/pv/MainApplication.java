@@ -1,33 +1,31 @@
 package pv;
 
 import pv.alg.dijkstra.Dijkstra;
-import pv.alg.lp.ExampleLp;
 import pv.alg.lp.LpSolver;
-import pv.alg.lp.LpTurnus;
-import pv.alg.lp.LpTurnusMinT;
-import pv.bean.Spoj;
 import pv.util.DataReader;
 
-import java.util.List;
 import java.util.Map;
-import pv.alg.lp.LpTurnusMinTGarage;
+import pv.alg.lp.LpModelBus;
+import pv.alg.lp.LpModelMinT;
+import pv.alg.lp.LpModelMinTGaraz;
+import pv.alg.lp.LpModelWriter;
 
 public class MainApplication {
 
     public static void main(String[] args) {
 
-//        ExampleLp.solveExample1();
+        // vytvori maticu vzdialenosti pomocou Dijkstrovho algoritmu
         Dijkstra dijkstra = new Dijkstra();
         Map m = dijkstra.solve(DataReader.readNodes(), DataReader.readEdges());
 
-//        LpTurnus lp = new LpTurnus();
-//
-//        lp.solve(m, DataReader.readSpoje());
-        LpTurnusMinT lp2 = new LpTurnusMinT();
+        //pre vyriesenie konkretneho modelu je dany podel potrebne odkomentovat
+        
+        //LpModelWriter writer = new LpModelBus(m, DataReader.readSpoje());
+        //LpModelWriter writer = new LpModelMinT(m, DataReader.readSpoje());
+        LpModelWriter writer = new LpModelMinTGaraz(m, DataReader.readSpoje(), 470);
+        writer.createModel();
 
-        lp2.solve(m, DataReader.readSpoje());
-//        LpTurnusMinTGarage lp3 = new LpTurnusMinTGarage();
-//        lp3.solve(m, DataReader.readSpoje(), 470);
-
+        LpSolver lp = new LpSolver();
+        lp.solve(writer.getLp_model());
     }
 }
