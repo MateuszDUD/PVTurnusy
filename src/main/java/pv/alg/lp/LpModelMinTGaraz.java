@@ -18,7 +18,7 @@ public class LpModelMinTGaraz extends LpModelWriter {
     private final int idGaraz;
 
     public LpModelMinTGaraz(Map<Integer, Map<Integer, Integer>> distances, List<Spoj> spojeSimple, int idGaraz) {
-        super(distances, spojeSimple, "LpTurnusMinTGaraz");
+        super(distances, spojeSimple, "LpTurnusMinTGaraz.txt");
         this.idGaraz = idGaraz;
     }
 
