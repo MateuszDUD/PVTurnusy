@@ -24,7 +24,7 @@ public class LpModelMinTGaraze extends LpModelWriter {
 
     @Override
     public void createModel() {
-        try ( Writer writer = new BufferedWriter(new OutputStreamWriter(
+        try (Writer writer = new BufferedWriter(new OutputStreamWriter(
                 new FileOutputStream(lp_model), "utf-8"))) {
             createLinearFunction(writer);
             createSubject(writer);
@@ -205,12 +205,12 @@ public class LpModelMinTGaraze extends LpModelWriter {
                     writer.write(s);
                     writer.write("\n");
                 }
-                writer.write("  = ");
+                s += "-";
                 j = 0;
                 s += "v" + spoje2.get(i).getPossibleConnectionsFromThis().get(j).getId() + "_" + id;
                 while (j < spoje2.get(i).getPossibleConnectionsFromThis().size()) {
                     if (!s.equals(" ")) {
-                        s += "+";
+                        s += "-";
                     }
 
                     s += "x" + spoje2.get(i).getPossibleConnectionsFromThis().get(j).getId() + "_" + spoje2.get(i).getId() + "_" + id;
@@ -222,8 +222,12 @@ public class LpModelMinTGaraze extends LpModelWriter {
                     }
                     j++;
                 }
+                if (!s.equals(" ")) {
+                    writer.write(s);
+                    writer.write("\n");
+                }
+                writer.write("  = 0\n");
             }
-            writer.write("\n");
         }
 
         for (Integer id : idgaraze) {
