@@ -28,5 +28,6 @@ public class Spoj2 extends Spoj {
         super.toName = spoj.getToName();
         super.arrival = spoj.getArrival();
         super.distanceInKm = spoj.getDistanceInKm();
+        super.triangularTimeDurationSec = spoj.getTriangularTimeDurationSec();
     }
 }

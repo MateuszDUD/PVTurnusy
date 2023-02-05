@@ -45,6 +45,17 @@
             <version>2.0.0-alpha0</version>
             <scope>runtime</scope>
         </dependency>
+
+<!--        <dependency>-->
+<!--            <groupId>group.gurobi</groupId>-->
+<!--            <artifactId>artifact.gurobi</artifactId>-->
+<!--            <version>1.0</version>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>group.gurobilib</groupId>-->
+<!--            <artifactId>artifact.gurobilib</artifactId>-->
+<!--            <version>1.0</version>-->
+<!--        </dependency>-->
     </dependencies>
 
 </project>
